@@ -7,6 +7,6 @@ public class MavenJunitTest {
     @Test
     public void testApp()
     {
-        assertEquals(0,new MavenJunit().calculateSomething());
+        assertEquals(10,new MavenJunit().calculateSomething());
     }
 }

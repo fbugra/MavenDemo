@@ -6,6 +6,6 @@ public class MavenJunit {
     }
 
     public int calculateSomething() {
-        return 0;
+        return 10;
     }
 }
